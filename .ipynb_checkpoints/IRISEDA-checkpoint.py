@@ -14,7 +14,7 @@ import joblib
 import dagshub
 
 # Initialize DagsHub
-dagshub.init(repo_owner='bhavana.chinnamgari', repo_name='Iris_prediction', mlflow=True)
+dagshub.init(repo_owner='punnaushaswini', repo_name='Iris_prediction', mlflow=True)
 
 # Load data from CSV and insert into SQLite database
 with open('iris.csv', 'r') as file:
