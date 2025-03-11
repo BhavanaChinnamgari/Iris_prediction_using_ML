@@ -7,11 +7,10 @@ The Iris Species Prediction Project is an end-to-end machine learning applicatio
 •	To ensure reproducibility and performance tracking, MLFlow is integrated into the project.       
 •	The trained model is deployed as a web application using Streamlit, allowing users to interact with it.   
 •	Containerized the application using Docker for easy deployment.   
+  
+<img width="468" alt="image" src="https://github.com/user-attachments/assets/c65a9c83-ed57-41ae-9b9e-990d2b0b24a4" />
 
 
-<img width="660" alt="image" src="https://github.com/user-attachments/assets/69b754b6-842e-4d6f-b639-b48b6929e731" />   
-        <img width="468" alt="image" src="https://github.com/user-attachments/assets/a12e8524-c58e-4585-822c-5a8254aa3b5e" />
-
-
+<img width="1465" alt="image" src="https://github.com/user-attachments/assets/0fdf67eb-0cca-4adf-b109-5331be7c4db4" />
 
 
